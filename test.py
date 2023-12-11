@@ -1,1 +1,3 @@
-t
+print("hello")
+
+i = 0
